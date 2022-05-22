@@ -1,7 +1,7 @@
 # Irixium
 Irixium is a GTK3/4 theme based off of the SGI IRIX Desktop, meant to comlpement the QT based themes of the same names in KDE Plasma [here](https://www.pling.com/p/1457753), though I'm not sure if it can be used outside of this scope.
 
-This theme uses the repository by sylphenix as a codebase though I have implemented my own assets to be similar.
+This theme uses the repository by sylphenix as a codebase (which the code is licensed under the same license) though I have implemented my own assets to be similar.
 - https://github.com/sylphenix/Great-IMD-evo
 
 ## Still A WIP

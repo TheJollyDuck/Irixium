@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Irixium
+Comment=Irixium QT Integration
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Irixium
